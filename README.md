@@ -93,9 +93,15 @@ Open your browser and visit:
 http://127.0.0.1:5000
 ```
 
+## System Architecture
+
+![SentinelGuard Architecture](docs/diagram.png)
+
 ## Screenshots
 
-Project screenshots will be added here.
+### Ransomware Detection Result
+
+![Detection Result](screenshots/RESULTE.png)
 
 ## Future Improvements
 
